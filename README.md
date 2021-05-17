@@ -11,10 +11,6 @@ This Project is built using ReactJS, Which uses Covid-19 API to pull out the dat
 ### `Footer Section`
 - &nbsp; ![alt text](https://github.com/sarwar1227/covid-19-india-statewise/blob/main/src/components/stateWise/outputs/4.png?raw=true)
 
-
-
-
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-[https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+**The App is `Deployed` at the below provided link - **
+[https://covid-19-india-statewise.web.app/](https://covid-19-india-statewise.web.app/)
 
