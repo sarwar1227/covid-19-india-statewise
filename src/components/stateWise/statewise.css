@@ -30,6 +30,9 @@ body{
     text-shadow:0.1rem 0.1rem 0.5rem #000; 
     font-weight: bold;
 }
+#logo{
+    padding:0 3rem;
+}
 .table-responsive{
     display:flex;
     flex-direction: column;
@@ -44,47 +47,50 @@ body{
     width:90%;
     border-spacing: 0;
 }
+.table-dark{
+    background-color:#000;
+}
 .table tr:nth-child(even){
     background-color:rgb(220, 254, 255);
 }
 td{
     padding:1rem 1rem;
 }
-.footer p{
-   margin-top:auto;
-   font-size:2rem; 
-   padding:1rem 0;
-   font-weight: bold;
-   text-shadow:0.1rem 0.1rem 0.5rem #000;
-   background-color:rgb(73, 152, 255);
-}
-.table-dark{
-    background-color:#000;
-}
 th{
     padding:1rem 0;
 }
-#logo{
-    padding:0 3rem;
+.state-css{
+    font-weight:bold;
+}
+.confirmed-css,.recovered-css{
+    transition: transform 0.5s ease-in-out;
 }
 .confirmed-css:hover{
+    transform: scale(1.1);
     background-color:red;
     color:white;
     cursor:pointer;
     border-radius: 2rem;
 }
 .recovered-css:hover{
+    transform: scale(1.1);
     background-color:rgb(0, 255, 64);
     color:white;
     cursor:pointer;
     border-radius: 2rem;
 }
-.state-css{
-    font-weight:bold;
-}
 .arrows{
     margin-left:0.5rem;
 }
+
+.footer p{
+    margin-top:auto;
+    font-size:2rem; 
+    padding:1rem 0;
+    font-weight: bold;
+    text-shadow:0.1rem 0.1rem 0.5rem #000;
+    background-color:rgb(73, 152, 255);
+ }
 @media screen and (max-width: 768px) {
     .table{
         font-size:1.5rem;
@@ -93,13 +99,16 @@ th{
         border-spacing: 0;
     } 
 }
-@media screen and (max-width: 550px) {
-    .table{
-        font-size:1.1rem;
-        margin:3rem 0;
-        border-spacing: 0;
-    } 
+@media screen and (max-width: 550px) { 
     .table , .main-heading , .footer{
         width:100%;
     }
-  }
+    .table{
+        font-size:1rem;
+        margin:3rem 0;
+        border-spacing: 0;
+    }
+    .main-heading{
+      font-size:2rem; 
+   } 
+}
