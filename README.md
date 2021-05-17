@@ -2,7 +2,7 @@
 
 This Project is built using ReactJS, Which uses Covid-19 API to pull out the data in JSON Format of Covid patients and then convert it into pure Javascript object& display them in statewise order in a proper tabular format.
 
-## Available Scripts
+## Snapshots Of The App
 
 
 ### `yarn start`
