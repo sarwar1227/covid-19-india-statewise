@@ -2,6 +2,9 @@
 
 This Project is built using ReactJS ⚛ & firebase 🔥 for deployment , Which uses Covid-19 API to pull out the data in JSON Format of Covid patients and then convert it into pure Javascript object& display them in statewise order in a proper tabular format.
 
+### Interface Of The App
+- &nbsp; ![alt text](https://github.com/sarwar1227/covid-19-india-statewise/blob/main/src/components/stateWise/outputs/9.gif)
+
 ## Snapshots Of The App
 ### `Header Section`
 - &nbsp; ![alt text](https://github.com/sarwar1227/covid-19-india-statewise/blob/main/src/components/stateWise/outputs/1.png?raw=true)
@@ -20,10 +23,8 @@ This Project is built using ReactJS ⚛ & firebase 🔥 for deployment , Which u
 ### `Footer Section`
 - &nbsp; ![alt text](https://github.com/sarwar1227/covid-19-india-statewise/blob/main/src/components/stateWise/outputs/6.jpg?raw=true)
 
-### GIFs
-- &nbsp; ![alt text](https://github.com/sarwar1227/covid-19-india-statewise/blob/main/src/components/stateWise/outputs/9.gif)
-
 ## The App is `Deployed` at the below provided link - ##
+
 [https://covid-19-india-statewise.web.app/](https://covid-19-india-statewise.web.app/)
 
 
