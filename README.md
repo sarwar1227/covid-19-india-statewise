@@ -1,6 +1,6 @@
 # COVID-19 India Statewise Dashboard
 
-This Project is built using **ReactJS** ⚛ & **firebase** 🔥 for deployment , Which uses **Covid-19 API** to pull out the data in **JSON** Format of Covid patients and then convert it into pure **Javascript object** & display them in statewise order in a proper **tabular** format.
+This Project is built using **ReactJS** ⚛ & **Firebase** 🔥 for deployment , Which uses **Covid-19 API** to pull out the data in **JSON** Format of Covid patients and then convert it into pure **Javascript object** & display them in statewise order in a proper **tabular** format.
 
 ## The App is `Deployed` at the below provided link - ##
 
