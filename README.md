@@ -4,7 +4,7 @@ This Project is built using **ReactJS** ⚛ & **Firebase** 🔥 for deployment ,
 
 ## The App is `Deployed` at the below provided link - ##
 
-[Live Site](https://covid-19-india-statewise.web.app/)
+## [Live Site](https://covid-19-india-statewise.web.app/)
 
 ## Interface Of The App
 ![alt text](https://github.com/sarwar1227/covid-19-india-statewise/blob/main/src/components/stateWise/outputs/9.gif)
